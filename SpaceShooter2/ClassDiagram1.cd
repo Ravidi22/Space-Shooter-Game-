@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceShooter2.ConnectUser.ResetPassword">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAEAgQEAAAAAAQAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ConnectUser\ResetPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.ConnectUser.User">
+    <Position X="6.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ConnectUser\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.ConnectUser.Validation">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAAAQA=</HashCode>
+      <FileName>ConnectUser\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.ConnectUser.Verification">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAACAAgAFgAAIAAAAAIAAgAAQAAAAACAAAAAgAAA=</HashCode>
+      <FileName>ConnectUser\Verification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Lazer" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAYAAABCAAAAQBAABAAQAAAAgARAAYIAA=</HashCode>
+      <FileName>Lazers\Lazer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.CollisionManger">
+    <Position X="1.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAAAAAAAACAAAAAAAAAAAAAAEAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CollisionManger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.EnemyMovment">
+    <Position X="14.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIACgAAAAIAAAAAAAAAQAAAAgAAAAQAAA=</HashCode>
+      <FileName>EnemyMovment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.EndScreen">
+    <Position X="14.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>EndScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.MainMenu" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CmoBQAIQCCEwABAAMACCIBASAIAIA4cAFAAoYEICAAQ=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Pill">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAEAAAAAAAAAAAAEAAAgBAAAAAAAEAAEABAA=</HashCode>
+      <FileName>Pill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Program">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Score">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.SpaceShooter">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>6IABARAAkCABoBgCFAGKUIIDBCAQgQBFAAgIQADAAAA=</HashCode>
+      <FileName>SpaceShooter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.SpawnManger">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAACAAAAACAAAAAAAAAAIAiAAQAAgEEAAAAQAAA=</HashCode>
+      <FileName>SpawnManger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.UserInviteScreen">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xAEQIAARFCAIEABAAACABIACADAQAQQAgAAIAAIAAkA=</HashCode>
+      <FileName>UserInviteScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Lazers.LazerBlue" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Lazers\LazerBlue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Lazers.LazerRed" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Lazers\LazerRed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Lazers.LazerRedBig" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Lazers\LazerRedBig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Server.LeaderBoard">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Server\LeaderBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Server.ServerManager" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEEBAFACRAAAEAAIKAgIBBBgAEAIACACEEEaAAUpAA=</HashCode>
+      <FileName>Server\ServerManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpaceShooter2.Ufos.Ufo" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAgAAAgKAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ufos\Ufo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Ufos.UfoRed" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAIAACAAAAAAAAAAIAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Ufos\UfoRed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Ufos.UfoGreen" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAACAAAAAAAAAAIABAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Ufos\UfoGreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceShooter2.Ufos.UfoYellow" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAIAACAAAAAAAAAAIABAAAgBAAQAAAAAAAA=</HashCode>
+      <FileName>Ufos\UfoYellow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SpaceShooter2.Direction">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
